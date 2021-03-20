@@ -1,0 +1,9 @@
+{
+  "name": "blockchain-js",
+  "version": "1.0.0",
+  "description": "blockchain app",
+  "main": "index.js",
+  "repository": "git@github.com:kanui624/blockchain-js.git",
+  "author": "Kanui <marley.kanui@gmail.com>",
+  "license": "MIT"
+}
