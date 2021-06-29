@@ -12,3 +12,4 @@ bitcoin.createNewTransaction(10, 'HEYSKJH78342059', 'YOPOFYEHW89437');
 bitcoin.createNewBlock(2039473, 'SDFJHsdf209384', 'WOEsdfRUSJHKDF');
 
 console.log(bitcoin.chain[2]);
+// new
